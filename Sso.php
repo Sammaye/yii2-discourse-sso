@@ -5,7 +5,7 @@ namespace sammaye\discourse;
 use Yii;
 use yii\base\Component;
 
-class DiscourseSso extends Component
+class Sso extends Component
 {
 	public $secret;
 
