@@ -1,0 +1,19 @@
+{
+	"name": "sammaye/yii2-discourse-sso",
+	"description": "A set of tools for Discourse unicorns.",
+	"keywords": ["yii2", "framework", "discourse", "sso"],
+	"homepage": "http://www.sammaye.wordpress.com/",
+	"type": "project",
+	"license": "BSD-3-Clause",
+	"support": {
+		"issues": "https://github.com/Sammaye/yii2-discourse-sso/issues",
+		"source": "https://github.com/Sammaye/yii2-discourse-sso"
+	},
+	"require": {
+		"php": ">=5.4.0",
+		"yiisoft/yii2-mongodb": "*"
+	},
+	"autoload": {
+		"psr-4": {"sammaye\\discourse\\": ""}
+	}
+}
