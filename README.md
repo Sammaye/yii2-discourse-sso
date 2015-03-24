@@ -2,6 +2,8 @@
 
 Discourse SSO for Yii2
 
+Currently this extension only really deals with logging in.
+
 Installing and configuring is quite easy.
 
 Make sure to [follow this guide on Discourse](https://meta.discourse.org/t/official-single-sign-on-for-discourse/13045) and while setting up SSO, after getting the secret needed 
