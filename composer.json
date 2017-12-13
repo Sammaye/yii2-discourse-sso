@@ -10,8 +10,7 @@
 		"source": "https://github.com/Sammaye/yii2-discourse-sso"
 	},
 	"require": {
-		"php": ">=5.4.0",
-		"yiisoft/yii2-mongodb": "*"
+		"php": ">=5.4.0"
 	},
 	"autoload": {
 		"psr-4": {"sammaye\\discourse\\": ""}
